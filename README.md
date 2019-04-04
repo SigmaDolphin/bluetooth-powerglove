@@ -11,3 +11,4 @@ I personally didn't touch the flex sensors in the glove because my main interest
 
 I decided to put a LED in the glove as well, and since I wanted it to fade in and out i had to leave pin 10 free for it
 Also note that Arduino Mini Pro has a LED on pin 13, I had to remove it or else the program would get stuck on a button press
+![PCB Photo](docs/powerglovepcb.jpg)
